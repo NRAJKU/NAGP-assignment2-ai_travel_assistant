@@ -1,0 +1,15 @@
+langchain>=1.0,<2
+langchain-mcp-adapters>=0.1,<1
+langgraph>=1.0,<2
+langchain-community>=0.4,<1
+langchain-text-splitters>=1.0,<2
+langchain-google-genai
+sentence-transformers>=5,<6
+torch
+torchvision
+faiss-cpu>=1.9,<2
+streamlit>=1.50,<2
+python-dotenv>=1.0,<2
+mcp>=1.0,<3
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
