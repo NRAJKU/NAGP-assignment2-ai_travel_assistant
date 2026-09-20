@@ -1,5 +1,7 @@
 # Assignment 2 — AI Travel Planning Assistant
 
+Github Repo Link: https://github.com/NRAJKU/NAGP-assignment2-ai_travel_assistant
+
 ## 1. Overview
 
 This project implements a context-aware AI travel assistant for Singapore.
