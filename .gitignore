@@ -30,7 +30,5 @@ Thumbs.db
 data/vectorstore/*
 !data/vectorstore/.gitkeep
 
-.streamlit/
-
 # Logs
 *.log
