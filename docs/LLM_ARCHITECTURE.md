@@ -12,7 +12,7 @@ Streamlit
 LangChain Agent
   |
   v
-OpenAI LLM
+Gemini LLM
   |
   +------------------+------------------+
   |                  |                  |
@@ -31,7 +31,7 @@ Singapore KB
   +------------------+------------------+
                      |
                      v
-                  OpenAI LLM
+                  Gemini LLM
                      |
                      v
               Final grounded answer
